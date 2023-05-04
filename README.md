@@ -1,7 +1,7 @@
 # Data_Science_Projects
 Projetos de ciência de dados desenvolvidos por mim
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=V1%&color=GREEN&style=for-the-badge)
 
 <h1 align="center">1 - Projeto de análise dos microdados do ENEM 2021 V1.</h1>
 Nesta primeira versão do projeto dos dados do ENEM, analisei de maneira generalizada os dados disponibilizados pelo INEP, com enfoque na geração de insights. Comecei obtendo os dados e limpando-os. Após a limpeza gerei um overview e fiz uma análise explotória para entender a distribuição estatística dos meus dados e também iniciar a geração das hipóteses a serem respondidads. Após as hipótes geradas, iniciei com as análises necessárias. Começando com:
