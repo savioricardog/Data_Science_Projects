@@ -9,7 +9,7 @@ Projetos de ciência de dados desenvolvidos por mim
 
 <html>
 <h1 align="center"> Projeto de análise dos microdados do ENEM 2021 V1.0</h1>
-Nesta primeira versão do projeto dos dados do ENEM, retirados do site do enem: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem.<br>
+Neste projeto de análise de dados, o dataset usado foi retirado do site do enem: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem.<br>
 Analisei de maneira generalizada os dados disponibilizados pelo INEP, com enfoque na geração de insights. Comecei obtendo os dados e limpando-os com uso de pandas e numpy. Após a limpeza gerei um overview e fiz uma análise explotória para entender a distribuição estatística dos meus dados e também iniciar a geração das hipóteses a serem respondidads. Após as hipótes geradas, iniciei com as análises necessárias. Começando com:
 
 <body>
