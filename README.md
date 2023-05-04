@@ -16,13 +16,33 @@ Analisei de maneira generalizada os dados disponibilizados pelo INEP, com enfoqu
 <ul>
 <li> Calculo das notas médias que os alunos obtem na prova, que mostrou que as médias ainda hoje são muito baixas, algo em torno de 536,39.</li>
 <li>Em seguida parti para o comparativo entre os resultados obtidos por pessoas do sexo Masculino x Feminino que mostrou uma baixa diferença entre Homens e Mulheres, onde a maior diferença foi em prol das mulheres, que tiram melhores notas na redação, mas que no geral se saem abaixo dos homens. 
-  <img src="C:\Users\Savio\Pictures\Screenshots\MxF.png"/> </li>
+ 
+  ![MxF](https://user-images.githubusercontent.com/102491585/236349942-18ab5101-10e1-465a-a476-ece705cf0713.png)</li>
+  
 <li>Comparei também a relação entre as notas dos estados e regiões do país, onde podemos ver que de fato o ensino é infeior nas regiões Norte e Nordeste, se comparados ao restante do pais. </li>
+  
+  
+  
 <li>Calculei o percentual de evasão das provas por Faixa etária dos alunos, por Perfil Socieconomico, por Sexo e por Estado de moradia, onde o perfil do faltante do ENEM é: Residente da Norte, Mulher, em média com 18 anos, e com renda familiar abaixo dos R$ 1.100,00 mensais. </li>
+  
+  
+  
 <li>Calculei a média socioeconomica das pessoas que prestaram a prova, que é o grupo com renda de até R$ 1.100,00, que também é grupo com maior evasão, por ser o que mais se inscreve. Análisei comparativamente as notas do alunos que fazem para valer x aluno treineiros, e pude perceber que a diferença entre os dois grupos é baixa, cerca de 2% a diferença média entre os grupos. </li>
+  
+  
+  
 <li>Verifiquei qual o grupo etário mais presente nas provas e o resultado foi o de faixa etária de 18 anos. </li>
+  
+  
+  
 <li>Calculei as notas por grupo etário, que mostrou que o grupo de 22 anos, é o que obtem melhores resultados no prestar da prova.</li>
+  
+  
+  
 <li>Por fim, fiz um comparativo entre alunos de escola pública x privada, para validar a hipótese de que alunos de escola privada se saem melhor, e de fato se saem, a diferença média entre os grupo foi de 21,83% em prol dos alunos de escola privada. Em seguida comparei as hipóteses pré resolução, com os resultados obtidos e listei alguns outros insights que tive durante a análise e exploração dos dados.</li>
+  
+  
+  
 </ul>
 </body>
 </html>
