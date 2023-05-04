@@ -2,7 +2,6 @@
 Projetos de ciência de dados desenvolvidos por mim
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=V.1&color=GREEN&style=for-the-badge)
-https://img.shields.io/github/issues/https://github.com/savioricardog/Data_Science_Projects
 ![GitHub Org's stars](https://img.shields.io/github/stars/savioricardog?style=social)
 
 
