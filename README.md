@@ -2,6 +2,7 @@
 Projetos de ciência de dados desenvolvidos por mim
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=V.1&color=GREEN&style=for-the-badge)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/savioricaredog/DAta_Science_Projects/blob/master/LICENSE)
 ![GitHub Org's stars](https://img.shields.io/github/stars/savioricardog?style=social)
 
 
