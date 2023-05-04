@@ -2,8 +2,7 @@
 Projetos de ciência de dados desenvolvidos por mim
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=V.1&color=GREEN&style=for-the-badge)
-https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<?style=plastic&logo=appveyor>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
-?style=plastic&logo=appveyor
+
 
 
 <h1 align="center">1 - Projeto de análise dos microdados do ENEM 2021 V1.</h1>
