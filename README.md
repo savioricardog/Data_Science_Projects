@@ -26,17 +26,19 @@ Analisei de maneira generalizada os dados disponibilizados pelo INEP, com enfoqu
   
  ![Captura de tela 2023-05-04 212953](https://user-images.githubusercontent.com/102491585/236356807-9f37342f-c37c-4f1a-90e0-010d58d8c4de.png)
   
-<li>Calculei o percentual de evasão das provas por Faixa etária dos alunos:<br>
+<li>Calculei o percentual de evasão das provas por Faixa etária dos alunos:</li><br>
  
-Por Perfil Socieconomico: <br> 
+ ![Captura de tela 2023-05-04 232046](https://user-images.githubusercontent.com/102491585/236365415-2ac393cb-27ef-4728-a176-498216876b9a.png)
+
+<li>Por Perfil Socieconomico:</li> <br> 
 
  ![Captura de tela 2023-05-04 230315](https://user-images.githubusercontent.com/102491585/236364063-6a5fe9df-cfab-4093-b8a6-c47d9e26cd71.png)
 
-Por Sexo: <br>
+<li>Por Sexo:</li> <br>
  
  ![Captura de tela 2023-05-04 222953](https://user-images.githubusercontent.com/102491585/236361247-8d776a4d-e6f6-43a1-9216-7d4b0700cbf5.png)
  
-Por Estado de moradia: <br>
+<li>Por Estado de moradia:</li> <br>
  
  ![Captura de tela 2023-05-04 230201](https://user-images.githubusercontent.com/102491585/236363938-d2aca4f1-5b4f-4e3b-b1d6-90a268fc0847.png)
  
