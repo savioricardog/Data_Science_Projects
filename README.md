@@ -16,9 +16,9 @@ Analisei de maneira generalizada os dados disponibilizados pelo INEP, com enfoqu
 <ul>
 <li> Calculo das notas médias que os alunos obtem na prova, que mostrou que as médias ainda hoje são muito baixas, algo em torno de 536,39.</li>
  
- ![Captura de tela 2023-05-04 214228](https://user-images.githubusercontent.com/102491585/236357762-da21e269-d933-4867-8d1a-c548de13fced.png)
-
-<li>Em seguida parti para o comparativo entre os resultados obtidos por pessoas do sexo Masculino x Feminino que mostrou uma baixa diferença entre Homens e Mulheres, onde a maior diferença foi em prol das mulheres, que tiram melhores notas na redação, mas que no geral se saem abaixo dos homens. 
+ ![Captura de tela 2023-05-04 221932](https://user-images.githubusercontent.com/102491585/236360478-d697e5ff-2fdf-44cc-801e-52eaf6a2d938.png)
+ 
+ <li>Em seguida parti para o comparativo entre os resultados obtidos por pessoas do sexo Masculino x Feminino que mostrou uma baixa diferença entre Homens e Mulheres, onde a maior diferença foi em prol das mulheres, que tiram melhores notas na redação, mas que no geral se saem abaixo dos homens. 
  
  ![MxF](https://user-images.githubusercontent.com/102491585/236349942-18ab5101-10e1-465a-a476-ece705cf0713.png)</li>
   
