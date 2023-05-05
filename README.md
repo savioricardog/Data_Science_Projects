@@ -15,13 +15,18 @@ Analisei de maneira generalizada os dados disponibilizados pelo INEP, com enfoqu
 <body>
 <ul>
 <li> Calculo das notas médias que os alunos obtem na prova, que mostrou que as médias ainda hoje são muito baixas, algo em torno de 536,39.</li>
+ 
+ ![Captura de tela 2023-05-04 214228](https://user-images.githubusercontent.com/102491585/236357762-da21e269-d933-4867-8d1a-c548de13fced.png)
+
+ 
 <li>Em seguida parti para o comparativo entre os resultados obtidos por pessoas do sexo Masculino x Feminino que mostrou uma baixa diferença entre Homens e Mulheres, onde a maior diferença foi em prol das mulheres, que tiram melhores notas na redação, mas que no geral se saem abaixo dos homens. 
  
   ![MxF](https://user-images.githubusercontent.com/102491585/236349942-18ab5101-10e1-465a-a476-ece705cf0713.png)</li>
   
 <li>Comparei também a relação entre as notas dos estados e regiões do país, onde podemos ver que de fato o ensino é infeior nas regiões Norte e Nordeste, se comparados ao restante do pais. </li>
   
-  
+![Captura de tela 2023-05-04 212953](https://user-images.githubusercontent.com/102491585/236356807-9f37342f-c37c-4f1a-90e0-010d58d8c4de.png)
+
   
 <li>Calculei o percentual de evasão das provas por Faixa etária dos alunos, por Perfil Socieconomico, por Sexo e por Estado de moradia, onde o perfil do faltante do ENEM é: Residente da Norte, Mulher, em média com 18 anos, e com renda familiar abaixo dos R$ 1.100,00 mensais. </li>
   
