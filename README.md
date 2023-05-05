@@ -49,7 +49,7 @@ Onde o podemos inferir que perfil do faltante do ENEM é: Residente da Norte, Mu
   
  ![Captura de tela 2023-05-04 215140](https://user-images.githubusercontent.com/102491585/236358394-47986060-5c13-435d-9de6-609742614839.png)
 
-<li>Análisei comparativamente as notas do alunos que fazem para valer x aluno treineiros, e pude perceber que a diferença entre os dois grupos é baixa, cerca de 2% a diferença média entre os grupos.</li>
+<li>Análisei comparativamente as notas dos alunos que fazem para valer x aluno treineiros, e pude perceber que a diferença entre os dois grupos é baixa, cerca de 2% a diferença média entre os grupos.</li>
  
  ![Captura de tela 2023-05-04 215407](https://user-images.githubusercontent.com/102491585/236358588-9e9b93b3-6cfc-4878-a5d3-4738ac8d6f1c.png)
 
