@@ -1,5 +1,5 @@
 # Data_Science_Projects 
-Projetos de ciência de dados desenvolvidos por mim
+Projetos de ciência de dados
 
 <div display='inline'>
 <img src="https://img.shields.io/pypi/status/V1"/>
